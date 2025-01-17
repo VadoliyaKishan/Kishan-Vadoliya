@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/VadoliyaKishan/Kishan-Vadoliya/blob/main/_20210904121634.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0943&label=Profile%20views&color=0e75b6&style=flat" alt="VadoliyaKishan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VadoliyaKishan&label=Profile%20views&color=0e75b6&style=flat" alt="VadoliyaKishan" /> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -23,9 +23,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  .
-.
-.</p>
+
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VadoliyaKishan&show_icons=true&locale=en&layout=compact" alt="VadoliyaKishan" /></p>
 
@@ -37,4 +36,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VadoliyaKishan&" alt="VadoliyaKishan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VadoliyaKishan&show_icons=true&locale=en" alt="VadoliyaKishan" /></p>
